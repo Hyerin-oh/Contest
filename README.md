@@ -4,4 +4,4 @@
 
 | 대회이름 | 날짜 | 결과/등수 | Wrapup Report |
 |-----------|--------|--------|--------|
-|2021 Dev-Matching : 머신러닝 개발자|21/05/23|공동 16등 / 256등 | [Dev-Matching-WRAP-UP-REPORT](https://www.notion.so/Dev-Matching-WRAP-UP-REPORT-d41f1ebff15f412991b27119988b6247) |
+|2021 Dev-Matching : 머신러닝 개발자|21/05/23|공동 10등 / 256등 | [Dev-Matching-WRAP-UP-REPORT](https://www.notion.so/Dev-Matching-WRAP-UP-REPORT-d41f1ebff15f412991b27119988b6247) |
