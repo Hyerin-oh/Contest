@@ -12,6 +12,6 @@
 - 📝[WRAPUP REPORT](https://www.notion.so/Dev-Matching-WRAP-UP-REPORT-d41f1ebff15f412991b27119988b6247)에 가면 저만의 문제 해결 과정을 보실 수 있습니다. 
 
 ## 3. 최종 성적 
-- Private LB : 97.143 16등 / 256등
+- Private LB : 97.143 10등 / 256등
 - Public LB : 97.143 25등 / 256등
-![image](https://user-images.githubusercontent.com/68813518/119269211-7bb7e200-bc31-11eb-9f02-448834733bc2.png)
+![image](https://user-images.githubusercontent.com/68813518/119668703-5e258b00-be72-11eb-8d0d-6f5c74681967.png)
